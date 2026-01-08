@@ -1,4 +1,4 @@
-# Hi, I'm Logan Kelly 👋
+# Hi, I'm Logan (Dude7271)
 ### Roblox developer & CS Student at UNB
 
 I am a Computer Science student and developer specializing in **backend systems**, **modular architecture**, and **secure data management** on Roblox. I treat game development with the same rigor as software engineering, utilizing professional workflows (Rojo, Git) to build scalable, maintainable codebases.
