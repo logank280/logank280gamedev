@@ -25,6 +25,8 @@ A 3D multiplayer car-stealing tycoon built from scratch with Rojo.
 * **Backend:** 30+ server services (ProfileStore saves, economy, rebirths, races, daily rewards, analytics) with rate-limited networking and an in-engine unit test runner.
 * **Outcome:** the game was sold to a development firm.
 
+<img width="450" height="450" alt="Steal a Supercar race track, player plot and car customizer" src="images/steal-a-supercar.png" />
+
 ### Depot Dash
 A colour-matching bus puzzle game.
 * **Collision detection:** vehicles sit at any angle; the separating axis theorem and swept-path checks decide whether a vehicle's way ahead is clear.
