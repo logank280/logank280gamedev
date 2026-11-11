@@ -40,6 +40,8 @@ A 1v1 multiplayer game: fix the scrambled colours of a sports team logo more acc
 * **Asset pipeline:** Python scripts vectorize logos, split them into colour layers and upload all 429 layers through the Roblox Open Cloud API.
 * **Grading:** colour accuracy scored with the CIEDE2000 colour-difference formula, verified against published test data, and weighted by each part's visible area.
 
+<img width="450" height="450" alt="Color the Sports Team colour picker, grading, 1v1 table and pack opening" src="images/color-the-sports-team.png" />
+
 ### [EXTRA HARD OBBY](https://www.roblox.com/games/4986072211/EXTRA-HARD-OBBY)
 * **Role:** builder and scripter on an obstacle course game with **3.5 million+ visits** and **11,000+ favourites**, designing levels around player movement and difficulty.
 * **Stage Persistence:** Uses `DataStore2` for ultra-reliable saving of stage progress and death counts.
