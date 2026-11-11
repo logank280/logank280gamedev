@@ -37,7 +37,7 @@ A 1v1 multiplayer game: fix the scrambled colours of a sports team logo more acc
 * **Grading:** colour accuracy scored with the CIEDE2000 colour-difference formula, verified against published test data, and weighted by each part's visible area.
 
 ### [EXTRA HARD OBBY](https://www.roblox.com/games/4986072211/EXTRA-HARD-OBBY)
-* **Role:** builder on an obstacle course game with **3.5 million+ visits** and **11,000+ favourites**, designing levels around player movement and difficulty.
+* **Role:** builder and scripter on an obstacle course game with **3.5 million+ visits** and **11,000+ favourites**, designing levels around player movement and difficulty.
 * **Stage Persistence:** Uses `DataStore2` for ultra-reliable saving of stage progress and death counts.
 * **Discord Integration:** Features a `DiscModule` to send Webhook notifications to a Discord server when players reach milestones or join the game.
 * **Custom Intro UI:** A fully scripted camera intro sequence with tweened UI elements for a polished user experience.
