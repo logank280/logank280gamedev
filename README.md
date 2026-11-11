@@ -31,6 +31,8 @@ A colour-matching bus puzzle game.
 * **Level generation:** a seeded generator that always produces solvable levels, with game rules shared by client and server.
 * **Tools:** a Studio-only level editor (drag, rotate, box-select) that is never sent to players.
 
+<img width="450" height="450" alt="Depot Dash lobby and gameplay" src="images/depot-dash.png" />
+
 ### Color the Sports Team
 A 1v1 multiplayer game: fix the scrambled colours of a sports team logo more accurately than your opponent.
 * **Asset pipeline:** Python scripts vectorize logos, split them into colour layers and upload all 429 layers through the Roblox Open Cloud API.
