@@ -38,6 +38,11 @@ A 1v1 multiplayer game: fix the scrambled colours of a sports team logo more acc
 
 ### [EXTRA HARD OBBY](https://www.roblox.com/games/4986072211/EXTRA-HARD-OBBY)
 * **Role:** builder on an obstacle course game with **3.5 million+ visits** and **11,000+ favourites**, designing levels around player movement and difficulty.
+* **Stage Persistence:** Uses `DataStore2` for ultra-reliable saving of stage progress and death counts.
+* **Discord Integration:** Features a `DiscModule` to send Webhook notifications to a Discord server when players reach milestones or join the game.
+* **Custom Intro UI:** A fully scripted camera intro sequence with tweened UI elements for a polished user experience.
+
+<img width="553" height="307" alt="image" src="https://github.com/user-attachments/assets/fc302198-5008-4692-b301-23c41de55147" />
 
 ---
 
@@ -67,15 +72,6 @@ A script utilizing **Perlin Noise** (`math.noise`) to generate infinite, chunk-b
 * **Asset Population:** Procedurally spawns trees and vegetation based on seed randomization, ensuring a unique map every time.
 
 <img width="553" height="307" alt="image" src="https://github.com/user-attachments/assets/9b945a1d-8c59-46b3-a4aa-9df41155ad8a" />
-
-
-### Competitive Obby Framework
-A stage-based progression system designed for speedrunning and competitive play.
-* **Stage Persistence:** Uses `DataStore2` for ultra-reliable saving of stage progress and death counts.
-* **Discord Integration:** Features a `DiscModule` to send Webhook notifications to a Discord server when players reach milestones or join the game.
-* **Custom Intro UI:** A fully scripted camera intro sequence with tweened UI elements for a polished user experience.
-
-<img width="553" height="307" alt="image" src="https://github.com/user-attachments/assets/fc302198-5008-4692-b301-23c41de55147" />
 
 ---
 
