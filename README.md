@@ -24,7 +24,7 @@ A colour-matching bus puzzle game.
 * **Collision detection:** vehicles sit at any angle; the separating axis theorem and swept-path checks decide whether a vehicle's way ahead is clear.
 * **Level generation:** a seeded generator that always produces solvable levels, with game rules shared by client and server.
 * **Tools:** a Studio-only level editor (drag, rotate, box-select) that is never sent to players.
-* **Outcome: reached at 100+ concurrent players
+* **Outcome:** reached at 100+ concurrent players
 
 <img width="450" height="450" alt="Depot Dash lobby and gameplay" src="images/depot-dash.png" />
 
