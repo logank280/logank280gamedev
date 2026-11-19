@@ -19,7 +19,7 @@ I am a Computer Science student and developer specializing in **backend systems*
 
 ## Featured Games
 
-### Depot Dash
+### Bus Fever!
 A colour-matching bus puzzle game.
 * **Collision detection:** vehicles sit at any angle; the separating axis theorem and swept-path checks decide whether a vehicle's way ahead is clear.
 * **Level generation:** a seeded generator that always produces solvable levels, with game rules shared by client and server.
