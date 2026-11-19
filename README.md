@@ -19,6 +19,15 @@ I am a Computer Science student and developer specializing in **backend systems*
 
 ## Featured Games
 
+### Depot Dash
+A colour-matching bus puzzle game.
+* **Collision detection:** vehicles sit at any angle; the separating axis theorem and swept-path checks decide whether a vehicle's way ahead is clear.
+* **Level generation:** a seeded generator that always produces solvable levels, with game rules shared by client and server.
+* **Tools:** a Studio-only level editor (drag, rotate, box-select) that is never sent to players.
+* **Outcome: reached at 100+ concurrent players
+
+<img width="450" height="450" alt="Depot Dash lobby and gameplay" src="images/depot-dash.png" />
+
 ### Steal a Supercar! (sold to a development firm)
 A 3D multiplayer car-stealing tycoon built from scratch with Rojo.
 * **Gameplay:** driving and races, police chase AI that pursues players out of each zone, and ragdoll physics, using raycasts and local/world space transforms.
@@ -26,14 +35,6 @@ A 3D multiplayer car-stealing tycoon built from scratch with Rojo.
 * **Outcome:** the game was sold to a development firm.
 
 <img width="450" height="450" alt="Steal a Supercar police chase, race track, player plot and car customizer" src="images/steal-a-supercar.png" />
-
-### Depot Dash
-A colour-matching bus puzzle game.
-* **Collision detection:** vehicles sit at any angle; the separating axis theorem and swept-path checks decide whether a vehicle's way ahead is clear.
-* **Level generation:** a seeded generator that always produces solvable levels, with game rules shared by client and server.
-* **Tools:** a Studio-only level editor (drag, rotate, box-select) that is never sent to players.
-
-<img width="450" height="450" alt="Depot Dash lobby and gameplay" src="images/depot-dash.png" />
 
 ### Color the Sports Team
 A 1v1 multiplayer game: fix the scrambled colours of a sports team logo more accurately than your opponent.
