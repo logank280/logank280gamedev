@@ -26,7 +26,7 @@ A colour-matching bus puzzle game.
 * **Tools:** a Studio-only level editor (drag, rotate, box-select) that is never sent to players.
 * **Outcome:** reached 100+ concurrent players
 
-<img width="450" height="450" alt="Depot Dash lobby and gameplay" src="images/depot-dash.png" />
+<img width="450" height="450" alt="Bus Fever lobby and gameplay" src="images/bus-fever.png" />
 
 ### Steal a Supercar! (sold to a development firm)
 A 3D multiplayer car-stealing tycoon built from scratch with Rojo.
